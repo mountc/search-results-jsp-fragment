@@ -1,0 +1,5 @@
+Bundle-Name: Example Portal Search Web JSP Fragment Override
+Bundle-SymbolicName: com.example.portal.search.web.jsp.fragment
+Bundle-Version: 1.0.0
+Fragment-Host: com.liferay.portal.search.web;bundle-version="(4.0.0,5.0.0]"
+Import-Package: !com.liferay.portal.search.web.internal.*,*
